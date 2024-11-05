@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ShyM-App/habit-roulette.git/static/css/main.e6c13ad2.css",
+    "main.js": "/ShyM-App/habit-roulette.git/static/js/main.9036407f.js",
+    "static/js/453.ed3810f9.chunk.js": "/ShyM-App/habit-roulette.git/static/js/453.ed3810f9.chunk.js",
+    "service-worker.js": "/ShyM-App/habit-roulette.git/service-worker.js",
+    "index.html": "/ShyM-App/habit-roulette.git/index.html",
+    "main.e6c13ad2.css.map": "/ShyM-App/habit-roulette.git/static/css/main.e6c13ad2.css.map",
+    "main.9036407f.js.map": "/ShyM-App/habit-roulette.git/static/js/main.9036407f.js.map",
+    "453.ed3810f9.chunk.js.map": "/ShyM-App/habit-roulette.git/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9036407f.js"
+  ]
+}
